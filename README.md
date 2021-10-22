@@ -14,3 +14,6 @@ Not allowed to post until at least the end of the course. Even then, they don't 
 In the meantime, enjoy these things that you can't access :D
  - https://github.com/vereimyst/cs1-hw1
  - https://github.com/vereimyst/cs1-hw2
+ - https://github.com/vereimyst/cs1-hw3
+ - https://github.com/vereimyst/cs1-hw4
+ - https://github.com/vereimyst/cs1-hw5
