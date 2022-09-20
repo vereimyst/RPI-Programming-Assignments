@@ -6,6 +6,6 @@ Not allowed to publicize the code until at least the end of the course. Even the
 
 # Previous courses
  - Computer Science 1 (Fall 2021) -- hws 1-8 already on Github (private)
- - Data Structures (Data Structures 2022)
+ - Data Structures (Spring 2022)
 
 Currently taking Foundations of Computer Science, which apparently doesn't involve any coding (and is basically just Discrete Math).
